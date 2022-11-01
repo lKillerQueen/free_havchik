@@ -1,0 +1,8 @@
+{
+    "botToken": "вставьте сюда свой токен", 
+    "burgerCommand": "/burger",
+    "wkusnoCommand": "/wkusno",
+    "helloText": "Привет. Я бот, который бля кароче вот команды)📝📝📝 \n/burger \n/wkusno",
+    "apiWkusno": "https://vkusnoitochka.ru/api/promos",
+    "apiBurger": "https://burgerkingrus.ru/api-web-front/api/v1/menu/coupons"
+}
